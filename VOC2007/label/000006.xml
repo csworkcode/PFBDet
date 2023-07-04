@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000006.jpg</filename>
+	<path>F:\zidongbiaozhu\detectAuto-main\images\000006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>832</width>
+		<height>832</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>81</ymin>
+			<xmax>465</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

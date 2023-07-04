@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F:/zidongbiaozhu/detectAuto-main/images</folder>
+	<filename>000018.jpg</filename>
+	<path>F:/zidongbiaozhu/detectAuto-main/images/000018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>832</width>
+		<height>1120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>995</ymin>
+			<xmax>485</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+</annotation>

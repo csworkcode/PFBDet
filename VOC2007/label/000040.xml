@@ -1,0 +1,26 @@
+<annotation>
+	<folder>F:/zidongbiaozhu/detectAuto-main/images</folder>
+	<filename>000040.jpg</filename>
+	<path>F:/zidongbiaozhu/detectAuto-main/images/000040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2317</xmin>
+			<ymin>991</ymin>
+			<xmax>2500</xmax>
+			<ymax>1221</ymax>
+		</bndbox>
+	</object>
+</annotation>
